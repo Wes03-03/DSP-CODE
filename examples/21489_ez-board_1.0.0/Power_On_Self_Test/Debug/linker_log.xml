@@ -1,0 +1,121 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/Analog Devices/CrossCore Embedded Studio 2.12.1/System/linker_log.xsl"?>
+<DOCUMENT gen_time='Mon Mar 17 16:57:14 2025
+'>
+<MSG id='03AE9FE8' mid='li3050' type='Informational' suppressed=''>
+<TEXT><![CDATA[Input section(s) were excluded from output section 'dxe_block0_nw_code']]></TEXT>
+<EXTENDED_INFO><![CDATA[The following input section(s) were excluded
+    app_startup.doj(seg_pmco)
+    src\sport1_isr_process_samples_.doj(seg_pmco)
+    app_startup.doj(seg_pmco)
+    libcc.dlb[divrem_s32.doj](seg_pmco)
+    libcc.dlb[divrem_s64.doj](seg_pmco)
+    libcc.dlb[divrem_u32.doj](seg_pmco)
+    libcc.dlb[divrem_u64.doj](seg_pmco)
+    libcc.dlb[float_divide.doj](seg_pmco)
+    libcc.dlb[flt_sprt.doj](seg_pmco)
+    libcc.dlb[lib_ldtof.doj](seg_pmco)
+    libcc.dlb[strlen.doj](seg_pmco)
+    libc.dlb[adi_fatal_error.doj](seg_pmco)
+    libc.dlb[dispatched_handler_activate.doj](seg_pmco)
+    libc.dlb[dispatched_handler_deactivate.doj](seg_pmco)
+    libc.dlb[dispatched_handler_register.doj](seg_pmco)
+    libc.dlb[dispatched_handler_unregister.doj](seg_pmco)
+    libc.dlb[fatal_error.doj](seg_pmco)
+    libc.dlb[int_dispatcher_214xx.doj](seg_pmco)
+    libc.dlb[isinff.doj](seg_pmco)
+    libc.dlb[no_dispatched_handler.doj](seg_pmco)
+    libc.dlb[powf.doj](seg_pmco)
+    libc.dlb[set_c.doj](seg_pmco)
+    libc.dlb[sinf.doj](seg_pmco)
+    libdsp.dlb[bitrev_simd.doj](seg_pmco)
+    libdsp.dlb[cfft128_simd.doj](seg_pmco)
+    libdsp.dlb[cfft2048_simd.doj](seg_pmco)
+    libdsp.dlb[fft_magnitude_simd.doj](seg_pmco)
+    libdsp.dlb[rfft256_simd.doj](seg_pmco)
+    libdsp.dlb[rfft4096_simd.doj](seg_pmco)]]></EXTENDED_INFO>
+</MSG>
+<MSG id='03AEBA28' mid='li3050' type='Informational' suppressed=''>
+<TEXT><![CDATA[Input section(s) were excluded from output section 'dxe_block0_nw_code_prio1']]></TEXT>
+<EXTENDED_INFO><![CDATA[The following input section(s) were excluded
+    libc.dlb[adi_fatal_error.doj](seg_pmco)
+    libc.dlb[fatal_error.doj](seg_pmco)
+    libc.dlb[int_dispatcher_214xx.doj](seg_pmco)
+    libc.dlb[isinff.doj](seg_pmco)
+    libc.dlb[powf.doj](seg_pmco)
+    libc.dlb[set_c.doj](seg_pmco)
+    libc.dlb[sinf.doj](seg_pmco)
+    libdsp.dlb[bitrev_simd.doj](seg_pmco)
+    libdsp.dlb[cfft128_simd.doj](seg_pmco)
+    libdsp.dlb[cfft2048_simd.doj](seg_pmco)
+    libdsp.dlb[fft_magnitude_simd.doj](seg_pmco)
+    libdsp.dlb[rfft256_simd.doj](seg_pmco)
+    libdsp.dlb[rfft4096_simd.doj](seg_pmco)]]></EXTENDED_INFO>
+</MSG>
+<MSG id='03AEA8A8' mid='li3050' type='Informational' suppressed=''>
+<TEXT><![CDATA[Input section(s) were excluded from output section 'dxe_block0_nw_code_prio3']]></TEXT>
+<EXTENDED_INFO><![CDATA[The following input section(s) were excluded
+    app_startup.doj(seg_pmco)
+    src\sport1_isr_process_samples_.doj(seg_pmco)
+    app_startup.doj(seg_pmco)
+    libcc.dlb[divrem_s32.doj](seg_pmco)
+    libcc.dlb[divrem_s64.doj](seg_pmco)
+    libcc.dlb[divrem_u32.doj](seg_pmco)
+    libcc.dlb[divrem_u64.doj](seg_pmco)
+    libcc.dlb[float_divide.doj](seg_pmco)
+    libcc.dlb[flt_sprt.doj](seg_pmco)
+    libcc.dlb[lib_ldtof.doj](seg_pmco)
+    libcc.dlb[strlen.doj](seg_pmco)
+    libc.dlb[adi_fatal_error.doj](seg_pmco)
+    libc.dlb[dispatched_handler_activate.doj](seg_pmco)
+    libc.dlb[dispatched_handler_deactivate.doj](seg_pmco)
+    libc.dlb[dispatched_handler_register.doj](seg_pmco)
+    libc.dlb[dispatched_handler_unregister.doj](seg_pmco)
+    libc.dlb[fatal_error.doj](seg_pmco)
+    libc.dlb[int_dispatcher_214xx.doj](seg_pmco)
+    libc.dlb[isinff.doj](seg_pmco)
+    libc.dlb[no_dispatched_handler.doj](seg_pmco)
+    libc.dlb[powf.doj](seg_pmco)
+    libc.dlb[set_c.doj](seg_pmco)
+    libc.dlb[sinf.doj](seg_pmco)
+    libdsp.dlb[bitrev_simd.doj](seg_pmco)
+    libdsp.dlb[cfft128_simd.doj](seg_pmco)
+    libdsp.dlb[cfft2048_simd.doj](seg_pmco)
+    libdsp.dlb[fft_magnitude_simd.doj](seg_pmco)
+    libdsp.dlb[rfft256_simd.doj](seg_pmco)
+    libdsp.dlb[rfft4096_simd.doj](seg_pmco)]]></EXTENDED_INFO>
+</MSG>
+<MSG id='03AEA528' mid='li3050' type='Informational' suppressed=''>
+<TEXT><![CDATA[Input section(s) were excluded from output section 'dxe_sdram_nw_code']]></TEXT>
+<EXTENDED_INFO><![CDATA[The following input section(s) were excluded
+    app_startup.doj(seg_pmco)
+    src\sport1_isr_process_samples_.doj(seg_pmco)
+    app_startup.doj(seg_pmco)
+    libcc.dlb[divrem_s32.doj](seg_pmco)
+    libcc.dlb[divrem_s64.doj](seg_pmco)
+    libcc.dlb[divrem_u32.doj](seg_pmco)
+    libcc.dlb[divrem_u64.doj](seg_pmco)
+    libcc.dlb[float_divide.doj](seg_pmco)
+    libcc.dlb[flt_sprt.doj](seg_pmco)
+    libcc.dlb[lib_ldtof.doj](seg_pmco)
+    libcc.dlb[strlen.doj](seg_pmco)
+    libc.dlb[adi_fatal_error.doj](seg_pmco)
+    libc.dlb[dispatched_handler_activate.doj](seg_pmco)
+    libc.dlb[dispatched_handler_deactivate.doj](seg_pmco)
+    libc.dlb[dispatched_handler_register.doj](seg_pmco)
+    libc.dlb[dispatched_handler_unregister.doj](seg_pmco)
+    libc.dlb[fatal_error.doj](seg_pmco)
+    libc.dlb[int_dispatcher_214xx.doj](seg_pmco)
+    libc.dlb[isinff.doj](seg_pmco)
+    libc.dlb[no_dispatched_handler.doj](seg_pmco)
+    libc.dlb[powf.doj](seg_pmco)
+    libc.dlb[set_c.doj](seg_pmco)
+    libc.dlb[sinf.doj](seg_pmco)
+    libdsp.dlb[bitrev_simd.doj](seg_pmco)
+    libdsp.dlb[cfft128_simd.doj](seg_pmco)
+    libdsp.dlb[cfft2048_simd.doj](seg_pmco)
+    libdsp.dlb[fft_magnitude_simd.doj](seg_pmco)
+    libdsp.dlb[rfft256_simd.doj](seg_pmco)
+    libdsp.dlb[rfft4096_simd.doj](seg_pmco)]]></EXTENDED_INFO>
+</MSG>
+</DOCUMENT>
